@@ -3,6 +3,10 @@
 Bem-vindo(a) ao meu projeto Jogo de Adivinhação!
 Este é um mini game divertido e simples, feito com HTML, CSS e JavaScript puro, onde o jogador deve adivinhar um número aleatório entre 0 e 20.
 
+Link para o projeto hospedado no Vercel:
+
+🎮 https://jogo-de-adivinhar-o-numero.vercel.app/
+
 🔍 Como funciona?
 
 O jogo gera um número aleatório de 0 a 20 no início.
@@ -38,6 +42,4 @@ Interatividade com o usuário
 
 Estilização com CSS moderno
 
-Link para o projeto hospedado no Vercel:
 
-🎮 https://jogo-de-adivinhar-o-numero.vercel.app/
